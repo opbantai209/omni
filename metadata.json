@@ -1,0 +1,6 @@
+{
+  "name": "Global Calculator Platform",
+  "description": "A modern, full-width global calculator website platform with dynamic category, subcategory, and interactive calculator management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
